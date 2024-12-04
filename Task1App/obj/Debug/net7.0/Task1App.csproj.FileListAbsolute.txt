@@ -1,0 +1,15 @@
+D:\BackendCourse\Assignments\Task1\Task1App\bin\Debug\net7.0\Task1App.exe
+D:\BackendCourse\Assignments\Task1\Task1App\bin\Debug\net7.0\Task1App.deps.json
+D:\BackendCourse\Assignments\Task1\Task1App\bin\Debug\net7.0\Task1App.runtimeconfig.json
+D:\BackendCourse\Assignments\Task1\Task1App\bin\Debug\net7.0\Task1App.dll
+D:\BackendCourse\Assignments\Task1\Task1App\bin\Debug\net7.0\Task1App.pdb
+D:\BackendCourse\Assignments\Task1\Task1App\obj\Debug\net7.0\Task1App.csproj.AssemblyReference.cache
+D:\BackendCourse\Assignments\Task1\Task1App\obj\Debug\net7.0\Task1App.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackendCourse\Assignments\Task1\Task1App\obj\Debug\net7.0\Task1App.AssemblyInfoInputs.cache
+D:\BackendCourse\Assignments\Task1\Task1App\obj\Debug\net7.0\Task1App.AssemblyInfo.cs
+D:\BackendCourse\Assignments\Task1\Task1App\obj\Debug\net7.0\Task1App.csproj.CoreCompileInputs.cache
+D:\BackendCourse\Assignments\Task1\Task1App\obj\Debug\net7.0\Task1App.dll
+D:\BackendCourse\Assignments\Task1\Task1App\obj\Debug\net7.0\refint\Task1App.dll
+D:\BackendCourse\Assignments\Task1\Task1App\obj\Debug\net7.0\Task1App.pdb
+D:\BackendCourse\Assignments\Task1\Task1App\obj\Debug\net7.0\Task1App.genruntimeconfig.cache
+D:\BackendCourse\Assignments\Task1\Task1App\obj\Debug\net7.0\ref\Task1App.dll
